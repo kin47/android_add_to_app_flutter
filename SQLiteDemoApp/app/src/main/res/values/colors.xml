@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorF7DD70">#FFF7DD70</color>
+    <color name="color0B0621">#FF0B0621</color>
+    <color name="color24184D">#FF24184D</color>
+    <color name="color4F5184">#FF4F5184</color>
+    <color name="colorEFEFEF">#FFEFEFEF</color>
+    <color name="colorFA1E7C">#FFFA1E7C</color>
+    <color name="colorFA1D7C">#FFFA1D7C</color>
+    <color name="color9A6CD9">#FF9A6CD9</color>
+    <color name="colorE95A53">#FFE95A53</color>
+    <color name="color999999">#FF999999</color>
+    <color name="color666666">#FF666666</color>
+    <color name="color333333">#FF333333</color>
+    <color name="color9D6AD5">#FF9D6AD5</color>
+    <color name="colorFFFFFF">#FFFFFFFF</color>
+    <color name="color0B0620">#FF0B0620</color>
+    <color name="color24174D">#FF24174D</color>
+    <color name="colorFF1D7D">#FFFF1D7D</color>
+    <color name="color0C0621">#FF0C0621</color>
+    <color name="color0C032E">#FF0C032E</color>
+    <color name="color221813">#FF221813</color>
+    <color name="colorFEF9DF">#FFFEF9DF</color>
+    <color name="colorA08A4B">#FFA08A4B</color>
+    <color name="color00000080">#80000000</color>
+    <color name="colorD8D8D8">#FFD8D8D8</color>
+    <color name="colorD5D5D5">#FFD5D5D5</color>
+    <color name="color777777">#FF777777</color>
+    <color name="colorFFF6E9">#FFFFF6E9</color>
+    <color name="colorFEE778">#FFFEE778</color>
+    <color name="color704CEB">#FF704CEB</color>
+    <color name="colorFFEFAC">#FFFFEFAC</color>
+    <color name="colorFF4141">#FFFF4141</color>
+    <color name="color525252">#FF525252</color>
+    <color name="color5D5D5D">#FF7D7575</color>
+    <color name="colorF3F4F5">#FFF3F4F5</color>
+    <color name="colorEDEDED">#FFEDEDED</color>
+    <color name="colorCCCCCC">#FFCCCCCC</color>
+    <color name="color4D7FFB">#FF4D7FFB</color>
+    <color name="color70719B">#FF70719B</color>
+
+    <!-- secondary -->
+    <color name="black">#FF000000</color>
+    <color name="stroke">#FFEBEBEB</color>
+    <color name="lightBlue">#FFCEE1FF</color>
+    <color name="notificationBg">#FFF7DD70
+    </color> <!-- Assuming this is the background for notifications -->
+
+    <!-- alert -->
+    <color name="alertError">#FFFE5050</color>
+    <color name="alertSuccess">#FF6DC68E</color>
+    <color name="alertLink">#FF007AFF</color>
+    <color name="alertWarning">#FFFFCC00</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+</resources>

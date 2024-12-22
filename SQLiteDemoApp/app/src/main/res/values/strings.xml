@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SQLiteDemoApp</string>
+    <string-array name="category">
+        <item>Mua sắm</item>
+        <item>Tiền ăn</item>
+        <item>Tiền nhà</item>
+        <item>Tiền điện</item>
+        <item>Tiền nước</item>
+        <item>Đi lại</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
